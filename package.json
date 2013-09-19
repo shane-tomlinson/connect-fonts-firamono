@@ -1,5 +1,5 @@
 {
-  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-firamono",
   "description": "Fira Mono font pack for connect-fonts",
   "keywords": ["font", "font-face", "CSS", "connect-fonts", "firamono-bold", "firamono-regular"],
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/shane-tomlinson/connect-fonts-firamono/issues"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 0.4.7"
   },
